@@ -65,7 +65,6 @@ git clone https://github.com/mdmashoodalam/LinkedIn_RestApi.git
 cd LinkedIn_RestApi/linkedin
 ```
 
-Replace `<your-username>` with your GitHub username.
 
 ### Configure the database
 
